@@ -4,3 +4,8 @@ class Circle
         @pos = pos
     end
 end
+
+
+# make changes
+# git add changes
+# git commit changes
