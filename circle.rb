@@ -7,6 +7,8 @@ class Circle
     def area
         Math::PI * @radius ** 2
     end
+
+    # adding comments
 end
 
 
