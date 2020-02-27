@@ -3,6 +3,10 @@ class Circle
         @radius = radius
         @pos = pos
     end
+
+    def area
+        Math::PI * @radius ** 2
+    end
 end
 
 
